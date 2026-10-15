@@ -78,3 +78,5 @@ and the name as (depending on your mood):
 
 This fork includes synthetic changes for testing selective push inspection.
 See `bouncer-demo/README.md` for the manual scenario.
+
+The second manual scenario exercises metadata-aware partial-tree validation.

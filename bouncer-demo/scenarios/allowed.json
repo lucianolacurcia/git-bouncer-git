@@ -1,0 +1,9 @@
+{
+  "name": "multi-file-follow-up",
+  "expected_result": "allow",
+  "checks": [
+    "sideband-progress",
+    "partial-tree-validation",
+    "remote-ref-update"
+  ]
+}

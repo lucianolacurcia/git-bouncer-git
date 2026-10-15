@@ -4,10 +4,11 @@
   "log_level": "debug",
   "features": {
     "audit_events": true,
-    "request_metrics": true
+    "request_metrics": true,
+    "push_progress": true
   },
   "retry": {
-    "attempts": 3,
-    "delay_ms": 250
+    "attempts": 5,
+    "delay_ms": 500
   }
 }
