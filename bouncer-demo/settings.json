@@ -1,0 +1,13 @@
+{
+  "environment": "local-lab",
+  "service": "example-service",
+  "log_level": "debug",
+  "features": {
+    "audit_events": true,
+    "request_metrics": true
+  },
+  "retry": {
+    "attempts": 3,
+    "delay_ms": 250
+  }
+}

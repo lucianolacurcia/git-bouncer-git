@@ -1,6 +1,8 @@
 /*
  * Builtin "git commit"
  *
+ * Git Bouncer lab: this comment exercises a small delta in an existing C file.
+ *
  * Copyright (c) 2007 Kristian Høgsberg <krh@redhat.com>
  * Based on git-commit.sh by Junio C Hamano and Linus Torvalds
  */

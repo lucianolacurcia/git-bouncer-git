@@ -73,3 +73,8 @@ and the name as (depending on your mood):
 [Documentation/SubmittingPatches]: Documentation/SubmittingPatches
 [Documentation/CodingGuidelines]: Documentation/CodingGuidelines
 [po/README.md]: po/README.md
+
+## Git Bouncer manual lab
+
+This fork includes synthetic changes for testing selective push inspection.
+See `bouncer-demo/README.md` for the manual scenario.
